@@ -1,2 +1,2 @@
 # Udacity-Boston
-The Boston housing price priject
+The Boston housing price project.
