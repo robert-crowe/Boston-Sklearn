@@ -1,4 +1,4 @@
-# Udacity-Boston
+# Boston-Sklearn
 
 v1.0 March 2016 - Robert Crowe
 
